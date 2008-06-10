@@ -8,7 +8,7 @@ When you are inserting a new row, the application will insert the next biggest n
 Supports PHP 4 and PHP5
 
 We use some external libraries and applications:
- 
+
 HTML Purifier for preventing xss attacks and cleaning HTML code
 TinyMCE  changes all text areas into user friendly HTML editor permitting your user to write basic HTML (only some HTML tags are enabled). You can personalize TinyMCE! Or if you don’t need that just delete the TinyMCE folder.
 
