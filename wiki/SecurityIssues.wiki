@@ -1,8 +1,10 @@
-
+#labels Security
 
 == Security issues ==
 
 For security reason change your folder name.
+
+For security reasons deleting is not allowed.
 
 Change the $key inside cookie.php and setcookie.php (It is the same key).
 
