@@ -15,6 +15,6 @@ Don’t give root access to your client. Make new profile with only select, inse
 
 This application uses cookie and session for authentication. 
 
-The cookies are encrypted with MCRYPT_RIJNDAEL_256 and MCRYPT_RIJNDAEL_128 algorithm.
+The cookies are encrypted with MCRYPT_RIJNDAEL_256 and MCRYPT_RIJNDAEL_128 algorithm.(you may need php_mcrypt module)
 
 All the pages have “Do not follow” for the search engines.
